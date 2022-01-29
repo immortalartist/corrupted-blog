@@ -1,0 +1,61 @@
+[
+     
+        {
+      "id":1,
+      "imagedata":"https://d1vcqlflm6aitx.cloudfront.net/images/800x100p/1557364192-work_while_you_study_banner.webp",
+      "title":"Study approaches for novice learners",
+      "description":"1. If you study in any state university, where you can’t really make up your specialisation in any sub-spheres of the course per se, set up a society/course in your college giving it a title of “Special Course” under your respected department. Once get approved by the department head, the college shall conduct this Special Course, say for, every Saturdays an hour or so under the supervision of a particular specialised-under faculty. The faculty would guide, give assignments, homework with light-effects. The Special Course shall have minimum of 2-3 domains within. The course, say for, Cybersecurity, Data Science, or Machine Learning or different booming programming languages, say for, R, Python, Erlang or Ruby. This shall continue for minimum of 2-3 semesters within the department. Certificates from the college signed by the HOD and the coordinator shall be given for such specialisation optionally. This shall offset taking online courses where assessment is a big concern. This shall add more ascendancy to the course as it is supervised and are evaluated genuinely under adept professors. Moreover, adds way to resume plus to future endorsement.\n\n 2. Peer teaching is one of the cardinal ways to master a particular course. Peer teaching is achieved by a student instructing/guiding another student, where the former is deftly knowledgable and the latter is a beginner. “To teach is to learn twice” - Joseph Joubert In this pragmatic approach, the facilitator not only gains more experience but also makes the other person learn more quickly. The reluctant factor would be obliterated out right. This approach in technical terms can be either carried out for normal difficult subject(s) in the college per se or at an outer level to provide different programming and logics classes. The least the college can do is cater a certificate to the peer teacher under the name of department and the college. This fosters the peer indispensable character, responsibility and management skills which would bolster their resume/CV. This approach goes hand in hand and enable astute benefits. Some research shows the students who had engaged in peer learning scored significantly higher than the students who had not, indicating the effectiveness peer tutoring can have on academic achievement. Thanks for reading. Concentrate and be in the moment. Fervent wishes for your future endorsement.",
+      "publisher":"Faiz",
+      "reference":"",
+      "time": "2:35 PM",
+      "date": "29/6/2021",
+      "college": "VCET Puttur"
+    },
+     
+     {
+      "id":0,
+      "imagedata":"https://jupitervidya.com/wp-content/uploads/2014/02/data-structures-training-bangalore-jupiter-vidya-430x270.jpg",
+      "title":"Preponderance of Advanced Data Structures",
+      "description":"Data Structures are nothing but, a way in which data are stored such that efficiency for search, delete and retrieval makes a huge bounce. For example, Phone Directory can be efficiently implemented using Trie Data Structure. Yet, have you heard of it? Presumably not. Decidedly, least not intentionally, university curriculum does not necessitate such advanced data structure concepts. So, do you think linear or binary search is way more effective for searching of data stored on Google Server or retrieving data from a humongous database? Are companies like Google employ simple algorithms like Linear or Binary that we all studied in our academics? If not, did we learn the wrong concepts? No, not at all. Binary search approach was used to test potential COVID-19 patients in India so as to effectively increase the number of patients tested per day. Interesting, right? PageRank or simply PR is the algorithm used by google for searching webpages/links. PageRank works by counting the number and quality of links to a page to determine a rough estimate of how important the website is. Fibonacci heaps are used in some of the fastest known algorithms (asymptotically) for a lot of graph-related problems, such as the Shortest Path problem. Bloom Filter is a probabilistic data structure which is used to search an element within a large set of elements. Interval tree is mainly a geometric data structure and often used for windowing queries. Does digging into these topics have any immediate effects on academic level at least? Yes, it is. These advanced topics or untold topics in general, will muster you with further studies with topics like Data Mining, Neural Networks and Machine Learning Techniques. As we all have been taught that “no algorithm is one-size-fits-all”, i.e., there is no cut-and-dried solution to any of a particular problem - multiple solutions for a single problem exist. One does relatively well than the other in some situation. To add more, on a psychological note, learning these topic will enhance the way you think and change the neural circuitry which in turn produce staggeringly specialised mental representation. Overall, make you wise and expand your knowledge to a greater extend. Who knows you might come up with your own optimised data structures. Reminder: don’t miss my personal advise on my next article that might help you. I hope the information below will serve as a small appetiser to your main course. This is specially designed for VTU students/colleges or any state university where we need to stick to the guns of very limited electives to choose from. I mean, less chance to pick up a subject you like and get specialised.",
+      "publisher":"Faiz",
+      "reference":"",
+      "time": "10:57 PM",
+      "date": "16/6/2021",
+      "college": "VCET Puttur"
+    },
+   
+    {
+      "id":11,
+      "imagedata":"https://play-lh.googleusercontent.com/vyoFt2cyNbOVy22uKdGJRCZ-6UB-6YMXmwbIl5-PjGpmSgLLb9hiYx5Jw9mpmIEhgg",
+      "title":"Signal",
+      "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+      "publisher":"Alice & Bob",
+      "reference":"Signal App",
+      "time": "8:24 PM",
+      "date": "16/5/2021",
+      "college": "VTU"
+    },
+    {
+      "id":2,
+      "imagedata":"https://images.hindustantimes.com/tech/img/2021/01/28/960x540/367553658_0-9_1611807959633_1611807977521.jpg",
+      "title":"Telegram",
+     "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of de Finibus Bonorum et Malorum (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, Lorem ipsum dolor sit amet.., comes from a line in section 1.10.32.",
+      "publisher":"Bob",
+      "reference":"",
+      "time": "10:59 AM",
+      "date": "16/5/2021",
+      "college": "VTU"
+    },
+    {
+       "id":3,
+       "imagedata":"",
+       "title":"Learn C",
+        "youtube":"https://www.youtube.com/embed/KJgsSFOSQv0?rel=0",
+        "description":"This course will give you a full introduction into all of the core concepts in the C programming language. The C Programming Language is a computer programming book written by Brian Kernighan and Dennis Ritchie, the latter of whom originally designed and implemented the language, as well as co-designed the Unix operating system with which development of the language was closely intertwined. ",
+        "publisher":"Alice",
+        "reference":"",
+        "time": "10:58 AM",
+         "date": "16/5/2021",
+         "college": "VTU"
+        }
+]
